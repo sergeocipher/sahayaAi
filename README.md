@@ -55,7 +55,7 @@ This repository contains the mandatory documentation required for the hackathon 
 
 ---
 
-## 👥 Team Samarthya
+## 👥 Team Outlierso1
 
 - **Team Leader:** Ram Tichkule
 - **member:** Somyajit Saha , Aashu kumar
