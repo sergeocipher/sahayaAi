@@ -58,7 +58,7 @@ This repository contains the mandatory documentation required for the hackathon 
 ## 👥 Team Samarthya
 
 - **Team Leader:** Ram Tichkule
-- ** member:** Somyajit Saha , Aashu kumar
+- **member:** Somyajit Saha , Aashu kumar
 - **Focus Area:** Inclusion, Accessibility, and Societal Impact.
 
 ---
